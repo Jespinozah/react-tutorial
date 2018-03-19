@@ -1,0 +1,24 @@
+/* span {
+  display: inline-block;
+  margin: 0.5em;
+  text-align: center;
+  background-color: #ccc;
+  width: 24px !important;
+  border-radius: 50% !important;
+} */
+
+.number {
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #fff;
+  color: #ddd;
+  cursor: not-allowed;
+}
+
+.used {
+  background-color: #aaddaa;
+  color: #99bb99;
+  cursor: not-allowed;
+}
